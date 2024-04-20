@@ -9,4 +9,4 @@ def get_days_from_today(date):
     except Exception as e:
         return ("Exception: ", e)
 
-print(get_days_from_today("2021-01-09"))
+print(get_days_from_today("2024-01-09"))
